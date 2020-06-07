@@ -1,0 +1,10 @@
+C:\Users\sakul\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe.config
+C:\Users\sakul\source\repos\Frogger\Frogger\bin\Debug\Frogger.exe
+C:\Users\sakul\source\repos\Frogger\Frogger\bin\Debug\Frogger.pdb
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.csprojAssemblyReference.cache
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.Form1.resources
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.Properties.Resources.resources
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateResource.cache
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.exe
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.pdb
