@@ -8,3 +8,4 @@ C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.GenerateRes
 C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.csproj.CoreCompileInputs.cache
 C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.exe
 C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.pdb
+C:\Users\sakul\source\repos\Frogger\Frogger\obj\Debug\Frogger.Form2.resources
